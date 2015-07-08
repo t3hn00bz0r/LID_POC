@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\TestScripts\testBillboard.js" />
+     <Compile Include="Assets\TestScripts\testNote.js" />
      <Compile Include="Assets\TestScripts\testRaycast.js" />
      <Compile Include="Assets\TestScripts\testTrigger.js" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
