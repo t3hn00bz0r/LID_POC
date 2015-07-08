@@ -1,12 +1,32 @@
-LifeIsDark/Assembly-CSharp-Editor-vs.csproj
-LifeIsDark/Assembly-CSharp-Editor-vs.csproj
-LifeIsDark/Library/assetDatabase3
-LifeIsDark/Library/expandedItems
-LifeIsDark/Library/shadercompiler-32bit-1.log
-LifeIsDark/LifeIsDark-csharp.sln
-LifeIsDark/LifeIsDark.sln
-LifeIsDark/Library/shadercompiler-64bit-1.log
-LifeIsDark/Library/metadata/00/00000000000000004000000000000000
-LifeIsDark/Library/expandedItems
-LifeIsDark/Library/CurrentLayout.dwlt
-*.log
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
