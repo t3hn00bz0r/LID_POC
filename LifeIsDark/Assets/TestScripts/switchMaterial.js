@@ -4,6 +4,10 @@
         print("mouse is looking at me");  
         var test = gameObject.GetComponent.<Renderer>();
         test.material.shader = Shader.Find("Specular");
+        if(Input.GetMouseButtonDown(0)){
+        	BroadcastMessage ("testThis");
+        
+        }
      
  }
  
