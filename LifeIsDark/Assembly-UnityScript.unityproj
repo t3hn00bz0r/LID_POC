@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\TestScripts\switchMaterial.js" />
+     <Compile Include="Assets\TestScripts\switchMaterialBack.js" />
      <Compile Include="Assets\TestScripts\testBillboard.js" />
      <Compile Include="Assets\TestScripts\testNote.js" />
      <Compile Include="Assets\TestScripts\testRaycast.js" />
