@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TestScripts\activateSpirit.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Aaron\Documents\New Unity Project\Assets\Game Assets\Scripts\FearMeter.js">
     <Files>
-      <File FileName="Assets\TestScripts\activateSpirit.js" Line="7" Column="5" />
-      <File FileName="Assets\TestScripts\moveSpirit.js" Line="19" Column="1" />
+      <File FileName="C:\Users\Aaron\Documents\New Unity Project\Assets\Game Assets\Scripts\batteryAdd.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Aaron\Documents\New Unity Project\Assets\Game Assets\Scripts\FearMeter.js" Line="26" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

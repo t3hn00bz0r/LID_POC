@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Necromancer\Necromancer GUI\GUITestScript.js" />
      <Compile Include="Assets\TestScripts\activateSpirit.js" />
      <Compile Include="Assets\TestScripts\moveSpirit.js" />
      <Compile Include="Assets\TestScripts\objectBroadcast.js" />
@@ -57,11 +58,59 @@
      <Compile Include="Assets\TestScripts\testNote.js" />
      <Compile Include="Assets\TestScripts\testRaycast.js" />
      <Compile Include="Assets\TestScripts\testTrigger.js" />
+     <None Include="Assets\Dialogue System\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Mobile Test\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Bark Example\Three NPCs Bark\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\iOS\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Computer\Bitwise Font\!license.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Computer\Typing.txt" />
+     <None Include="Assets\Dialogue System\Examples\Lua Example\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Bark Example\Bark Example.xml" />
+     <None Include="Assets\Dialogue System\Third Party Support\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Bark Example\Bark Conversation\_README.txt" />
+     <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\Example\Art\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Art\Sounds\_README.txt" />
+     <None Include="Assets\CYOA Framework\Particles\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Dialogue System\DLLs\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Circle\Textures\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Necromancer\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Multiple Database Example\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Bark Example\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Save Load Example\_README_FIRST_IMPORTANT!.txt" />
+     <None Include="Assets\Dialogue System\Examples\Bark Example\Three NPCs Bark\Three NPCs Bark.xml" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Shared Audio\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Camera Angle Studio\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Quick Start\Quick Start.xml" />
+     <None Include="Assets\Dialogue System\Examples\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Sequence Example\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Text Input Example\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Necromancer\Necromancer GUI\Kingthings.txt" />
+     <None Include="Assets\Dialogue System\Examples\Art\_README.txt" />
+     <None Include="Assets\CYOA Framework\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Dialogue Database\Feature Demo.xml" />
+     <None Include="Assets\Dialogue System\Examples\Quest Example\_README.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\iOS\link.xml" />
+     <None Include="Assets\Dialogue System\Examples\Quick Start\_README.txt" />
+     <None Include="Assets\Dialogue System\Documentation\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Necromancer\Necromancer GUI\Readme.txt" />
+     <None Include="Assets\Dialogue System\Scripts\Supplemental\Utility\_README.txt" />
+     <None Include="Assets\Dialogue System\Scripts\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Feature Demo with Continue Button\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Wheel\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Menu Text Demo\Feature Demo With Menu Text.xml" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+     <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Shared Fonts\Orbitron\SIL Open Font License.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Shared Textures\_README.txt" />
+     <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\Prefabs\Unity UI Assets\_README.txt" />
+     <None Include="Assets\Dialogue System\Prefabs\_README.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Menu Text Demo\_README.txt" />
+     <None Include="Assets\Dialogue System\Examples\Feature Demo\Articy Feature Demo\Articy Feature Demo.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -70,6 +119,12 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="DialogueSystem">
+ <HintPath>F:/Unity/LID_POC/LifeIsDark/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
+ </Reference>
+ <Reference Include="LuaInterpreter">
+ <HintPath>F:/Unity/LID_POC/LifeIsDark/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
